@@ -11,6 +11,7 @@ Expense and Income Tracker is a simple Python application that allows you to tra
 - [Database](#database)
 - [Contributing](#contributing)
 - [License](#license)
+- [Support](#support)
 
 ## Features
 
@@ -52,7 +53,8 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE)
+This project is licensed under the [MIT License](LICENSE).
+
 
 ## Support
 

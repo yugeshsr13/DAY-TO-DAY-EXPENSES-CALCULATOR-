@@ -1,5 +1,4 @@
 import sqlite3
-
 # Connect to SQLite database
 conn = sqlite3.connect('transactions.db')
 cursor = conn.cursor()

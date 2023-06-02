@@ -30,27 +30,23 @@ Expense and Income Tracker is a simple Python application that allows you to tra
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/expense-income-tracker.git
+   git clone https://github.com/yugeshsr13/DAY-TO-DAY-EXPENSES-CALCULATOR.git
 2. Navigate to the project directory:
 
    ```shell
-   cd expense-income-tracker
+   cd DAY-TO-DAY-EXPENSES-CALCULATOR
 
-## Usage 
+## Usage
 
-1. Start the Expense and Income Tracker:
-  ```shell
-  python Expense_app.py
-  
+1. Start the Expense and Income Tracker.
 2. Follow the on-screen instructions to add transactions, display transaction history, and delete transaction history if needed.
-
 3. To exit the program, select the "Exit" option from the menu.
 
 ## Database
 
 The application uses an SQLite database (transactions.db) to store transaction data. The database is automatically created if it doesn't exist.
 
-## Contributing 
+## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request. Make sure to follow the contributing guidelines.
 
@@ -58,6 +54,6 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 This project is licensed under the MIT License.
 
-Sure! If you need any support or have any questions, feel free to reach out to me on LinkedIn. You can find my LinkedIn profile [here](https://www.linkedin.com/in/yugesh-sundararam-r-530046195/). Please don't hesitate to connect with me and send a message. I'll be happy to assist you with any help you need.
+## Support
 
-  
+Sure! If you need any support or have any questions, feel free to reach out to me on LinkedIn. You can find my LinkedIn profile [here](https://www.linkedin.com/in/yugesh-sundararam-r-530046195/). Please don't hesitate to connect with me and send a message. I'll be happy to assist you with any help you need.
